@@ -1,4 +1,4 @@
-# Analisis Kompleksitas Kode
+# Analisis Kompleksitas Kode (Untuk Jawaban Soal Nomor 2)
 
 ##Kompleksitas Waktu
 Kompleksitas waktu dihitung berdasarkan seberapa lama fungsi berjalan relatif terhadap ukuran inputnya. Panjang string bracket akan dilambangkan dengan 'n'.
